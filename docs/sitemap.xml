@@ -4,6 +4,10 @@
         <loc>https://keyvank.github.io/russki/</loc>
     </url>
     <url>
+        <loc>https://keyvank.github.io/russki/eip7503/</loc>
+        <lastmod>2026-03-24</lastmod>
+    </url>
+    <url>
         <loc>https://keyvank.github.io/russki/mainkraft/</loc>
         <lastmod>2026-03-24</lastmod>
     </url>
@@ -18,5 +22,9 @@
     <url>
         <loc>https://keyvank.github.io/russki/samyi-strannyi-bag/</loc>
         <lastmod>2026-03-28</lastmod>
+    </url>
+    <url>
+        <loc>https://keyvank.github.io/russki/stanovlenie-programmistom/</loc>
+        <lastmod>2026-04-02</lastmod>
     </url>
 </urlset>
